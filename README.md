@@ -10,7 +10,7 @@ Run `main_BGRSOD_parallel_20seeds.py` from the project root directory:
 python main_BGRSOD_parallel_20seeds.py
 ```
 
-The script runs BGRSOD on the `.mat` datasets in the `mydata6` directory. Each dataset should contain a variable named `trandata`, with features in the first columns and the ground-truth label in the last column.
+The script runs BGRSOD on the `.mat` datasets in the `Datesets` directory. Each dataset should contain a variable named `trandata`, with features in the first columns and the ground-truth label in the last column.
 
 ## Parameter Settings
 
